@@ -33,25 +33,3 @@ RAG is a method designed to address knowledge-intensive tasks, particularly in i
 1. **User-friendly Interface**: An intuitive interface designed to accommodate natural language queries, simplifying the interaction with PDF documents.
 
 2. **Seamless Navigation**: The system streamlines information retrieval, reducing complexity and enhancing the overall user experience.
-
-## Getting Started
-
-To use the PDF Intelligence System:
-
-1. Clone the repository to your local machine.
-   ```bash
-   git clone https://github.com/ArmaanSeth/ChatPDF.git
-   ```
-
-2. Install dependencies.
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the application.
-   ```bash
-   streamlit run app.py
-   ```
-
-4. Open your browser and navigate to `http://localhost:8000` to access the user interface.
-
